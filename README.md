@@ -7,4 +7,4 @@ git log - дерево фиксации (коммитов)
 git branch - показ существующих веток
 git branch (name) - создание новой ветки
 git merge - слияние веток
-sfgkhsjdghksdjtgfd
+git checkout -b (name) - создание новой ветки и переход на нее
