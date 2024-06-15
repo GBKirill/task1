@@ -7,3 +7,4 @@ git log - дерево фиксации (коммитов)
 git branch - показ существующих веток
 git branch (name) - создание новой ветки
 git merge - слияние веток
+sfgkhsjdghksdjtgfd
